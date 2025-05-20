@@ -3,7 +3,6 @@
 
 A modern web-based management interface for WireGuard VPN servers. This application allows you to easily configure and manage your WireGuard VPN server through an intuitive dashboard.
 
-![WireGuard Manager Dashboard]
 
 ## Features
 
